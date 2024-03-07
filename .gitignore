@@ -3,6 +3,6 @@ src/index.js
 
 #ignore dist folder
 src/
-!src/.gitkeep
+#!src/.gitkeep
 
 .idea/
